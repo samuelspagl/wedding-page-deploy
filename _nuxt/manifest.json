@@ -1,16 +1,15 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-2d020bbd.mjs",
+    "file": "entry-4b962d48.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
       "pages/index.vue"
     ],
     "css": [
-      "entry.551ed09e.css"
+      "entry.21a7e16a.css"
     ],
     "assets": [
-      "hero.40b31ea3.jpg",
       "monsieur-la-doulaise-v14-latin-regular.17478c6c.eot",
       "monsieur-la-doulaise-v14-latin-regular.ffd044b9.woff2",
       "monsieur-la-doulaise-v14-latin-regular.da985fac.woff",
@@ -34,7 +33,7 @@
     ]
   },
   "pages/index.vue": {
-    "file": "index-389572fd.mjs",
+    "file": "index-c7ba63d7.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
