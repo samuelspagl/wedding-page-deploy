@@ -1,0 +1,44 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-2d020bbd.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/index.vue"
+    ],
+    "css": [
+      "entry.551ed09e.css"
+    ],
+    "assets": [
+      "hero.40b31ea3.jpg",
+      "monsieur-la-doulaise-v14-latin-regular.17478c6c.eot",
+      "monsieur-la-doulaise-v14-latin-regular.ffd044b9.woff2",
+      "monsieur-la-doulaise-v14-latin-regular.da985fac.woff",
+      "monsieur-la-doulaise-v14-latin-regular.8193694f.ttf",
+      "monsieur-la-doulaise-v14-latin-regular.716918d1.svg",
+      "kaisei-decol-v8-latin-regular.889b3b79.eot",
+      "kaisei-decol-v8-latin-regular.0442ac3f.woff2",
+      "kaisei-decol-v8-latin-regular.35e24408.woff",
+      "kaisei-decol-v8-latin-regular.2b5b1d5a.ttf",
+      "kaisei-decol-v8-latin-regular.95ca555e.svg",
+      "kaisei-decol-v8-latin-500.efef4119.eot",
+      "kaisei-decol-v8-latin-500.ba8fc251.woff2",
+      "kaisei-decol-v8-latin-500.6866d08c.woff",
+      "kaisei-decol-v8-latin-500.a66358ad.ttf",
+      "kaisei-decol-v8-latin-500.505959ba.svg",
+      "kaisei-decol-v8-latin-700.fc9c139c.eot",
+      "kaisei-decol-v8-latin-700.83f9ce22.woff2",
+      "kaisei-decol-v8-latin-700.fe116c07.woff",
+      "kaisei-decol-v8-latin-700.d159e767.ttf",
+      "kaisei-decol-v8-latin-700.f176511c.svg"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-389572fd.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  }
+}
