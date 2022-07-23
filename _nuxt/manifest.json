@@ -1,13 +1,13 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-e5bc365b.mjs",
+    "file": "entry-f9c7b5b6.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
       "pages/index.vue"
     ],
     "css": [
-      "entry.cf97a2b1.css"
+      "entry.4eaee39d.css"
     ],
     "assets": [
       "monsieur-la-doulaise-v14-latin-regular.17478c6c.eot",
@@ -33,7 +33,7 @@
     ]
   },
   "pages/index.vue": {
-    "file": "index-003ad6e2.mjs",
+    "file": "index-a635099f.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
